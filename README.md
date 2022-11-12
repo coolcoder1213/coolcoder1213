@@ -7,17 +7,16 @@ Knowlage:
 
 Scratch: 100%
 
-HTML/CSS: 70%
+HTML/CSS: 100
 
-JS: 35%
+JS: 100%
 
-Python: 70%
+Python: 100%
 
-And like I said, I am still learning.
+
 
 WIWO:
-ScratchServe: 40%
+ScratchServe: 70%
 
-Pymath: 100%
 
 # Have a nice day!
