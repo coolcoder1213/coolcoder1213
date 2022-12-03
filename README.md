@@ -1,5 +1,5 @@
 Hi am @coolcoder1213!
-I code in Python, JS, HTML, CSS, Scratch and am learning a few other languages!
+I am a full stack developer!
 
 
 
